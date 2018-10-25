@@ -1,4 +1,4 @@
-# ESP8266 Deauther 2.0
+# ESP8266 Deauther 2.1
 
 <p align="center"><img alt="PICTURE logo" src="https://raw.githubusercontent.com/wiki/w4tchd0gs/esp8266_deauther/img/deauther_logo.png" width="200"></p>
 
